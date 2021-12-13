@@ -76,7 +76,7 @@ Everyone can use this command , if spaming happens bot will automatically ban yo
 t𝗋𝗒 𝗍𝗁𝗂𝗌 𝖮𝗎𝗍: 
 𝟣. /dice - Roll The Dice 
 𝟤. /Throw 𝗈𝗋 /Dart - 𝖳𝗈 𝖬𝖺𝗄𝖾 Drat 
-3. /Runs - Jokes 
+3. /qoute - Quotes 
 4. /Goal or /Shoot - To Make A Goal Or Shoot
 5. /luck or /cownd - Spin the Lucky"""
     MANUALFILTER_TXT = """Help: <b>Filters</b>

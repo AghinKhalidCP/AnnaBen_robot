@@ -21,7 +21,7 @@ GAME = "<u>𝗚𝗮𝗺𝗲𝘀</u>
 ➢ <a href='https://prizes.gamee.com/game-bot/getaway-fa4dbb4a39edc08fda38ea3291cfb8b21311ee4c#tgShareScoreUrl=tgb%3A%2F%2Fshare_game_score%3Fhash%3DRZEEHCHjjnfXhcDHzQRG'>Getaway</a>
 
 For more...
-<a href='t.me/sultanmehmed_TG'>PM Me</a>Pm Me
+<a href='t.me/sultanmehmed_TG'>PM Me</a>
 
 *Little bit lazy🤭"
 

@@ -78,7 +78,21 @@ t𝗋𝗒 𝗍𝗁𝗂𝗌 𝖮𝗎𝗍:
 𝟤. /Throw 𝗈𝗋 /Dart - 𝖳𝗈 𝖬𝖺𝗄𝖾 Drat 
 3. /qoute - Quotes 
 4. /Goal or /Shoot - To Make A Goal Or Shoot
-5. /luck or /cownd - Spin the Lucky"""
+5. /luck or /cownd - Spin the Lucky
+
+<u>𝗚𝗮𝗺𝗲𝘀</u>
+
+➢ <a href='<a <a href='https://prizes.gamee.com/game-bot/bj6dEMMXfq-d8ee710122e6bea315f3e5849b65026fa59df006#tgShareScoreUrl=tgb%3A%2F%2Fshare_game_score%3Fhash%3DkseOJRZzzmGGGzNxgmHQ'>Penalty Shooter</a>
+➢ <a href='https://prizes.gamee.com/game-bot/bj6dEMMXfq-d8ee710122e6bea315f3e5849b65026fa59df006#tgShareScoreUrl=tgb%3A%2F%2Fshare_game_score%3Fhash%3DkseOJRZzzmGGGzNxgmHQ'>Keep it Up!</a>
+➢ <a href='https://prizes.gamee.com/game-bot/Q8PWil-57a6b052d76a64ca5037a510f4e3f407fd815286#tgShareScoreUrl=tgb%3A%2F%2Fshare_game_score%3Fhash%3DwswnaCYYljtKDFUvyOcU'>F1 Racer</a>
+➢ <a href='https://prizes.gamee.com/game-bot/OsqXRuoNE-8bcd07ffa7a8769391452b7e01219953d9ba1059#tgShareScoreUrl=tgb%3A%2F%2Fshare_game_score%3Fhash%3DjdnHpqtDIFEpBZbBpVXY'>Skoda Hockey</a>
+➢ <a href='https://prizes.gamee.com/game-bot/pocketworldcup-eeb6b9a5fab64233cd46cb900b83e7c41e2205df#tgShareScoreUrl=tgb%3A%2F%2Fshare_game_score%3Fhash%3DqHeIGeRrXUXBdmIszbRe'>Pocket World Cup</a>
+➢ <a href='https://prizes.gamee.com/game-bot/getaway-fa4dbb4a39edc08fda38ea3291cfb8b21311ee4c#tgShareScoreUrl=tgb%3A%2F%2Fshare_game_score%3Fhash%3DRZEEHCHjjnfXhcDHzQRG'>Getaway</a>
+
+For more...
+<a href='t.me/sultanmehmed_TG'>PM Me</a>Pm Me
+
+*Little bit lazy🤭"""
     MANUALFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and Dingdi will respond whenever a keyword is found the message
@@ -104,7 +118,7 @@ t𝗋𝗒 𝗍𝗁𝗂𝗌 𝖮𝗎𝗍:
 3. Buttons should be properly parsed as markdown format.
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/josprojects)</code>
+<code>[Button Text](buttonurl:https://t.me/sultanmehmed_TG)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""

@@ -82,15 +82,15 @@ t𝗋𝗒 𝗍𝗁𝗂𝗌 𝖮𝗎𝗍:
 
 <u>𝗚𝗮𝗺𝗲𝘀</u>
 
-➢ <a href='<a <a href='https://prizes.gamee.com/game-bot/bj6dEMMXfq-d8ee710122e6bea315f3e5849b65026fa59df006#tgShareScoreUrl=tgb%3A%2F%2Fshare_game_score%3Fhash%3DkseOJRZzzmGGGzNxgmHQ'>Penalty Shooter</a>
-➢ <a href='https://prizes.gamee.com/game-bot/bj6dEMMXfq-d8ee710122e6bea315f3e5849b65026fa59df006#tgShareScoreUrl=tgb%3A%2F%2Fshare_game_score%3Fhash%3DkseOJRZzzmGGGzNxgmHQ'>Keep it Up!</a>
+➢ <a href='https://prizes.gamee.com/game-bot/bj6dEMMXfq-d8ee710122e6bea315f3e5849b65026fa59df006#tgShareScoreUrl=tgb%3A%2F%2Fshare_game_score%3Fhash%3DkseOJRZzzmGGGzNxgmHQ'>Penalty Shooter</a>
+➢ <a href='https://prihttps://prizes.gamee.com/game-bot/a3pyHGoadz-8640829b0401560739b363b29587184489d4e426#tgShareScoreUrl=tgb%3A%2F%2Fshare_game_score%3Fhash%3DYXVHJBoOMptiZMaocNyo'>Keep it Up</a>
 ➢ <a href='https://prizes.gamee.com/game-bot/Q8PWil-57a6b052d76a64ca5037a510f4e3f407fd815286#tgShareScoreUrl=tgb%3A%2F%2Fshare_game_score%3Fhash%3DwswnaCYYljtKDFUvyOcU'>F1 Racer</a>
 ➢ <a href='https://prizes.gamee.com/game-bot/OsqXRuoNE-8bcd07ffa7a8769391452b7e01219953d9ba1059#tgShareScoreUrl=tgb%3A%2F%2Fshare_game_score%3Fhash%3DjdnHpqtDIFEpBZbBpVXY'>Skoda Hockey</a>
 ➢ <a href='https://prizes.gamee.com/game-bot/pocketworldcup-eeb6b9a5fab64233cd46cb900b83e7c41e2205df#tgShareScoreUrl=tgb%3A%2F%2Fshare_game_score%3Fhash%3DqHeIGeRrXUXBdmIszbRe'>Pocket World Cup</a>
 ➢ <a href='https://prizes.gamee.com/game-bot/getaway-fa4dbb4a39edc08fda38ea3291cfb8b21311ee4c#tgShareScoreUrl=tgb%3A%2F%2Fshare_game_score%3Fhash%3DRZEEHCHjjnfXhcDHzQRG'>Getaway</a>
 
 For more...
-<a href='t.me/sultanmehmed_TG'>PM Me</a>Pm Me
+<a href='t.me/sultanmehmed_TG'>PM me🥴</a>
 
 *Little bit lazy🤭"""
     MANUALFILTER_TXT = """Help: <b>Filters</b>
@@ -110,7 +110,7 @@ For more...
 
     BUTTON_TXT = """Help: <b>Buttons</b>
 
-- tgmoviebot support both url and alert inline buttons.
+- This Bot support both url and alert inline buttons.
 
 <b>NOTE:</b>
 1. Telegram will not allows you to send buttons without any content, so content is mandatory.

@@ -33,7 +33,7 @@ def a(client, message):
     for i in message.command[1:]:
         query += ' ' + str(i)
     print(query)
-    m = message.reply('`🎧𝐅𝐢𝐧𝐝𝐢𝐧𝐠 𝐲𝐨𝐮𝐫 𝐬𝐨𝐧𝐠..... 𝐩𝐥𝐞𝐚𝐬𝐞 𝐰𝐚𝐢𝐭𝐞🎸`')
+    m = message.reply('`🎧𝐅𝐢𝐧𝐝𝐢𝐧𝐠 𝐲𝐨𝐮𝐫 𝐬𝐨𝐧𝐠..... 𝐩𝐥𝐞𝐚𝐬𝐞 𝐰𝐚𝐢𝐭🎸`')
     ydl_opts = {"format": "bestaudio[ext=m4a]"}
     try:
         results = []
@@ -57,7 +57,7 @@ def a(client, message):
             #     m.edit("Exceeded 30mins cap")
             #     return
 
-            performer = f"[𝐋𝐚𝐥𝐥𝐮𝐬 𝐦𝐮𝐬𝐢𝐜𝐬]" 
+            performer = f"[Eʀᴛᴜɢʀᴜʟ || FilmHome66]" 
             thumb_name = f'thumb{message.message_id}.jpg'
             thumb = requests.get(thumbnail, allow_redirects=True)
             open(thumb_name, 'wb').write(thumb.content)
@@ -68,7 +68,7 @@ def a(client, message):
             return
     except Exception as e:
         m.edit(
-            "**𝐄𝐧𝐭𝐞𝐫 𝐒𝐨𝐧𝐠 𝐍𝐚𝐦𝐞  𝐰𝐢𝐭𝐡 𝐂𝐨𝐦𝐦𝐚𝐧𝐝**❗\n𝐅𝐨𝐫 𝐄𝐱𝐚𝐦𝐩𝐥𝐞: `/song Alone marshmellow`"
+            "**𝐄𝐧𝐭𝐞𝐫 𝐒𝐨𝐧𝐠 𝐍𝐚𝐦𝐞  𝐰𝐢𝐭𝐡 𝐂𝐨𝐦𝐦𝐚𝐧𝐝**❗\n𝐅𝐨𝐫 𝐄𝐱𝐚𝐦𝐩𝐥𝐞: `/song Cvrtoon Plevne`"
         )
         print(str(e))
         return

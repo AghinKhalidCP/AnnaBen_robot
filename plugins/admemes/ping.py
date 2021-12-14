@@ -23,7 +23,7 @@ GAME = "<u>𝗚𝗮𝗺𝗲𝘀</u>
 For more...
 <a href='t.me/sultanmehmed_TG'>PM Me</a>Pm Me
 
-*Little bit lazy🤭""
+*Little bit lazy🤭"
 
 
 # -- Constants End -- #

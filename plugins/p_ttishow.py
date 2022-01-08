@@ -22,7 +22,7 @@ async def save_group(bot, message):
         if message.chat.id in temp.BANNED_CHATS:
             # Inspired from a boat of a banana tree
             buttons = [[
-                InlineKeyboardButton('Support', url=f'https://t.me/{SUPPORT_CHAT}')
+                InlineKeyboardButton('ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ', url=f'https://t.me/FilmHome66')
             ]]
             reply_markup=InlineKeyboardMarkup(buttons)
             k = await message.reply(
@@ -37,8 +37,8 @@ async def save_group(bot, message):
             await bot.leave_chat(message.chat.id)
             return
         buttons = [[
-            InlineKeyboardButton('ℹ️ Help', url=f"https://t.me/{temp.U_NAME}?start=help"),
-            InlineKeyboardButton('📢 Updates', url='https:/t.me/TeamEvamaria')
+            InlineKeyboardButton('ʜᴇʟᴘ', url=f"https://t.me/{temp.U_NAME}?start=help"),
+            InlineKeyboardButton('ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ', url='https:/t.me/FilmHome66')
         ]]
         reply_markup=InlineKeyboardMarkup(buttons)
         await message.reply_text(
@@ -51,7 +51,7 @@ async def save_group(bot, message):
                     await (temp.MELCOW['welcome']).delete()
                 except:
                     pass
-            temp.MELCOW['welcome'] = await message.reply(f"<b>ℋℯ𝓎 , {u.mention}, 𝒲ℰℒ𝒞𝒪ℳ 𝒯ℴ {message.chat.title} ℋ𝒶𝓅𝓅𝓎 𝓉ℴ 𝒽𝒶𝓋ℯ 𝒽ℯ𝓇ℯ</b>")
+            temp.MELCOW['welcome'] = await message.reply(f"<b>ʜᴇʏ..!! , {u.mention}, ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ {message.chat.title} ʜᴀᴘᴘʏ ᴛᴏ ʙᴇ ʜᴇʀᴇ.</b>")
 
 
 @Client.on_message(filters.command('leave') & filters.user(ADMINS))
@@ -65,12 +65,12 @@ async def leave_a_chat(bot, message):
         chat = chat
     try:
         buttons = [[
-            InlineKeyboardButton('Support', url=f'https://t.me/{SUPPORT_CHAT}')
+            InlineKeyboardButton('ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ', url=f'https://t.me/FilmHome66')
         ]]
         reply_markup=InlineKeyboardMarkup(buttons)
         await bot.send_message(
             chat_id=chat,
-            text='<b>Hello Friends, \nMy admin has told me to leave from group so i go! If you wanna add me again contact my support group.</b>',
+            text='<b>Hello Friends, \nMy admin has told me to leave from group so i go! If you wanna add me again contact my Owner @SultanMehmed_TG.</b>',
             reply_markup=reply_markup,
         )
 
@@ -103,7 +103,7 @@ async def disable_chat(bot, message):
     await message.reply('Chat Succesfully Disabled')
     try:
         buttons = [[
-            InlineKeyboardButton('Support', url=f'https://t.me/{SUPPORT_CHAT}')
+            InlineKeyboardButton('ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ', url=f'https://t.me/FilmHome66')
         ]]
         reply_markup=InlineKeyboardMarkup(buttons)
         await bot.send_message(

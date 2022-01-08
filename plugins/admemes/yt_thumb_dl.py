@@ -46,7 +46,7 @@ async def send_thumbnail(bot, update):
         await message.delete()
     except Exception as error:
         await message.edit_text(
-            text="**Please Use** /ytthumb (youtube link)\n\n**Example:** `/ytthumb https://youtu.be/h6PtzFYaMxQ`",
+            text="**Please Use** /ytthumb (youtube link)\n\n**Example:** `/ytthumb https://youtu.be/5fJXATpIiUQ `",
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton('Done By✔️', url='https://telegram.me/ask_me_Movie_Robot')]])
         )

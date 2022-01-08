@@ -416,14 +416,14 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "help":
         buttons = [[
             InlineKeyboardButton('ᴀᴅᴍɪɴ', callback_data='admin'),
-            InlineKeyboardButton('ᴄᴏɴɴᴇᴄᴛɪᴏɴ', callback_data='coct'),
+            InlineKeyboardButton('ғɪʟᴛᴇʀs', callback_data='auto_manual'),
             InlineKeyboardButton('ᴢᴏᴍʙɪᴇ', callback_data='restric')
             ],[
             InlineKeyboardButton('ɪɴғᴏ', callback_data='info'),
             InlineKeyboardButton('ᴀʟɪᴠᴇ', callback_data='alive'),
             InlineKeyboardButton('ᴡʜᴏɪs', callback_data='whois')
             ],[
-            InlineKeyboardButton('ғɪʟᴛᴇʀs', callback_data='auto_manual'),
+            InlineKeyboardButton('ᴄᴏɴɴᴇᴄᴛɪᴏɴ', callback_data='coct'),
             InlineKeyboardButton('ɢ-ᴛʀᴀɴs', callback_data='gtrans'),
             InlineKeyboardButton('sᴇᴀʀᴄʜ', callback_data='search')
             ],[
@@ -432,13 +432,13 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('ᴘᴜʀɢᴇ',callback_data='purge')
             ],[
             InlineKeyboardButton('ᴘᴀsᴛᴇ', callback_data='paste'),
-            InlineKeyboardButton('sᴏɴɢ || ᴠɪᴅᴇᴏ', callback_data='song'),
             InlineKeyboardButton('ᴊsᴏɴ', callback_data='json'),
             InlineKeyboardButton('ᴘɪɴ', callback_data='pin')
             ],[
-
-
+           callback_data='paste')
+            ],[
             InlineKeyboardButton('ᴄᴏʀᴏɴᴀ', callback_data='corona'),
+            InlineKeyboardButton('sᴏɴɢ || ᴠɪᴅᴇᴏ', callback_data='song'),
             InlineKeyboardButton('sᴛɪᴄᴋᴇʀ ɪᴅ', callback_data='stickerid')
             ],[
             InlineKeyboardButton('«ʙᴀᴄᴋ', callback_data='start')

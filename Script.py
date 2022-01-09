@@ -96,6 +96,25 @@ For more...
 <a href='t.me/sultanmehmed_TG'>PM me🥴</a>
 
 *Little bit lazy🤭"""
+    SHORTURL_TXT = """<b>Hᴇʟᴘ: URL Sʜᴏʀᴛɴᴇʀ</b>
+
+<b>Cᴏᴍᴍᴀɴᴅs ᴀɴᴅ Usᴀɢᴇ:</b>
+• /short (<code>link</code> - I ᴡɪʟʟ sᴇɴᴅ ᴛʜᴇ sʜᴏʀᴛᴇᴅ ʟɪɴᴋs.
+
+Exᴀᴍᴘʟᴇ:
+<code>/short https://t.me/ask_me_movie_Robot</code>
+
+<b>@ask_me_movie_Robot</b>
+<b>@Filmhome66</b>"""
+    TTS_TXT = """ <b>Hᴇʟᴘ: Tᴇxᴛ ᴛᴏ Sᴘᴇᴇᴄʜ</b>
+ 
+A ᴍᴏᴅᴜʟᴇ ᴛᴏ ᴄᴏɴᴠᴇʀᴛ ᴛᴇxᴛ ᴛᴏ ᴠᴏɪᴄᴇ ᴡɪᴛʜ ʟᴀɴɢᴜᴀɢᴇ sᴜᴘᴘᴏʀᴛ.
+
+<b>Cᴏᴍᴍᴀɴᴅs ᴀɴᴅ Usᴀɢᴇ:</b>
+• /tts - Rᴇᴘʟʏ ᴛᴏ ᴀɴʏ ᴛᴇxᴛ ᴍᴇssᴀɢᴇ ᴡɪᴛʜ ʟᴀɴɢᴜᴀɢᴇ ᴄᴏᴅᴇ ᴛᴏ ᴄᴏɴᴠᴇʀᴛ ᴀs ᴀᴜᴅɪᴏ.
+
+<b>@ask_me_movie_Robot</b>
+<b>@Filmhome66</b>"""
     MANUALFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and Dingdi will respond whenever a keyword is found the message

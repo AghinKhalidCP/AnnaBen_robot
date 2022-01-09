@@ -32,7 +32,7 @@ pyrogram
 tgcrypto
 pyqrcode
 pypng
-pyzbar
+pyzbar==0.1.8
 Pillow
 motor
 aiofiles

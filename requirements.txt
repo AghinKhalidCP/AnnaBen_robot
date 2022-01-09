@@ -35,4 +35,5 @@ pypng
 pyzbar
 Pillow
 motor
-
+aiofiles
+dnspython

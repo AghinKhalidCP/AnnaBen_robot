@@ -28,4 +28,6 @@ pyromod
 yt_dlp
 tswift
 ytthumb
-
+pyrogram
+tgcrypto
+pypdf2

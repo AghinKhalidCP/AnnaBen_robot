@@ -415,8 +415,10 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "help":
         buttons = [[
+            InlineKeyboardButton('ғɪʟᴛᴇʀs', callback_data='auto_manual')
+            ],[
             InlineKeyboardButton('ᴀᴅᴍɪɴ', callback_data='admin'),
-            InlineKeyboardButton('ғɪʟᴛᴇʀs', callback_data='auto_manual'),
+            InlineKeyboardButton('ᴜʀʟ sʜᴏʀᴛᴇɴᴇʀ', callback_data='shorturl ')
             InlineKeyboardButton('ᴢᴏᴍʙɪᴇ', callback_data='restric')
             ],[
             InlineKeyboardButton('ɪɴғᴏ', callback_data='info'),
@@ -438,6 +440,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('ᴄᴏʀᴏɴᴀ', callback_data='corona'),
             InlineKeyboardButton('sᴏɴɢ || ᴠɪᴅᴇᴏ', callback_data='song'),
             InlineKeyboardButton('sᴛɪᴄᴋᴇʀ ɪᴅ', callback_data='stickerid')
+            ],[
+            InlineKeyboardButton('ᴛᴇxᴛ ᴛᴏ Sᴘᴇᴇᴄʜ', callback_data='tts')
             ],[
             InlineKeyboardButton('«ʙᴀᴄᴋ', callback_data='start')
         ]]
@@ -609,7 +613,27 @@ InlineKeyboardButton('manual', callback_data='manualfilter')
             text=script.FUN_TXT,
             reply_markup=reply_markup,
             parse_mode='html'
-        )         
+        )
+    elif query.data == "shorturl":
+        buttons = [[
+            InlineKeyboardButton('« ʙᴀᴄᴋ', callback_data='help')
+        ]]
+        reply_markup = InlineKeyboardMarkup(buttons)
+        await query.message.edit_text(
+            text=script.SHORTURL_TXT,
+            reply_markup=reply_markup,
+            parse_mode='html'
+        )
+    elif query.data == "tts":
+        buttons = [[
+            InlineKeyboardButton('« ʙᴀᴄᴋ', callback_data='help')
+        ]]
+        reply_markup = InlineKeyboardMarkup(buttons)
+        await query.message.edit_text(
+            text=script.TTS_TXT,
+            reply_markup=reply_markup,
+            parse_mode='html'
+        )
     elif query.data == "coct":
         buttons = [[
             InlineKeyboardButton('« Back', callback_data='help')

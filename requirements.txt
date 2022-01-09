@@ -30,4 +30,9 @@ tswift
 ytthumb
 pyrogram
 tgcrypto
-pypdf2
+pyqrcode
+pypng
+pyzbar
+Pillow
+Pillow
+

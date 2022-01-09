@@ -34,5 +34,5 @@ pyqrcode
 pypng
 pyzbar
 Pillow
-Pillow
+motor
 

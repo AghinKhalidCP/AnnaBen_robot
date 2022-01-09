@@ -32,6 +32,7 @@ pyrogram
 tgcrypto
 pyqrcode
 pypng
+zbar
 pyzbar
 Pillow
 motor

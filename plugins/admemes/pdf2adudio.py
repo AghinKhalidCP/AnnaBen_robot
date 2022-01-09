@@ -54,5 +54,5 @@ async def pdf_to_text(bot, message):
            await txt.delete()
            os.remove(pdf_path)
          
-bughunter0.run()
+
  	

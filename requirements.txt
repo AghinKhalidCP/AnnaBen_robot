@@ -30,3 +30,4 @@ tswift
 ytthumb
 pyrogram
 tgcrypto
+pyrobot

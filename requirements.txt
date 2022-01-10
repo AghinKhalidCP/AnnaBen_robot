@@ -31,3 +31,4 @@ ytthumb
 pyrogram
 tgcrypto
 pyrobot
+pyrobot.forms
